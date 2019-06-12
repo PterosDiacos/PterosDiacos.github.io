@@ -1,5 +1,5 @@
 body {
-    font-family: "Lato", sans-serif;
+    font-family: "Ubuntu", sans-serif;
     font-size: 12pt;
     font-weight: 300;
     line-height: 125%;
@@ -11,7 +11,7 @@ body {
   }
   
   .heavy {
-    font-family: "Lato", sans-serif;
+    font-family: "Ubuntu", sans-serif;
     font-weight: 400;
   }
   
@@ -26,7 +26,7 @@ body {
   }
   
   .footer {
-    font-family: "Lato";
+    font-family: "Ubuntu";
     font-size: 90%;
     color: #ababab;
     text-align: right;
@@ -38,7 +38,7 @@ body {
   }
   
   .code, pre {
-    font-family: "Droid Sans Mono";
+    font-family: "Ubuntu Mono";
     font-size: 10pt;
     line-height: 110%;
   }
