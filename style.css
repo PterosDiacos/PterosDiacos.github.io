@@ -15,6 +15,10 @@ body {
     font-weight: 400;
   }
   
+  .chn {
+    font-family: "Palatino Linotype", "KaiTi", serif;
+  }
+
   h1, .contact {
     font-family: Palatino, "Palatino Linotype", serif;
     /*font-weight: bold;*/
