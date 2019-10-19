@@ -65,6 +65,7 @@
 \pdf_colorlinks true
 \pdf_backref false
 \pdf_pdfusetitle true
+\pdf_quoted_options "linkcolor=bluepigment,urlcolor=bluepigment"
 \papersize letterpaper
 \use_geometry true
 \use_package amsmath 1
@@ -719,12 +720,12 @@ vspace{-.8em}
 
 \begin_layout Labeling
 \labelwidthstring 00/0000--00/0000
-08/2019–10/2019 Ontology Linguist at AR/VR team, Pro Unlimited @ Facebook.
+08/2019–10/2019 Ontology Linguist on Assistant XFN Group, Facebook (via
+ PRO Unlimited).
 \begin_inset Newline newline
 \end_inset
 
-Ontology reasoning, semantic parsing, and their interaction.
- 
+Model prototyping in semantic parsing and ontology reasoning.
 \end_layout
 
 \begin_layout Labeling

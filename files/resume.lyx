@@ -29,6 +29,8 @@
 \providecommand{\LyX}{L\kern-.1667em\lower.25em\hbox{Y}\kern-.125emX\@}
 
 \usepackage{multicol}
+
+\definecolor{bluepigment}{rgb}{0.2, 0.2, 0.6}
 \end_preamble
 \use_default_options true
 \maintain_unincluded_children false
@@ -65,6 +67,7 @@
 \pdf_colorlinks true
 \pdf_backref false
 \pdf_pdfusetitle true
+\pdf_quoted_options "linkcolor=bluepigment,urlcolor=bluepigment"
 \papersize letterpaper
 \use_geometry true
 \use_package amsmath 1
