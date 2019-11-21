@@ -576,12 +576,16 @@ Ongoing Graph Representation of Meaning.
 05/2019 
 \begin_inset CommandInset href
 LatexCommand href
-name "Investigating BERT's Knowledge of Language: Five Analysis Methods with NPIs (accepted to EMNLP 2019)"
+name "Investigating BERT's Knowledge of Language: Five Analysis Methods with NPIs."
 target "https://arxiv.org/abs/1909.02597"
 literal "false"
 
 \end_inset
 
+ 
+\emph on
+Proceedings of EMNLP 2019
+\emph default
 .
  Team project supervised by Sam Bowman at NYU.
  
@@ -601,17 +605,13 @@ literal "false"
 \end_inset
 
 .
- In collaboration with Daniel L.
- Chen at the 
-\begin_inset CommandInset href
-LatexCommand href
-name "New York University Center for Data Science and Data Science Justice Collaboratory"
-target "http://users.nber.org/~dlchen/teaching/Projects2018.pdf"
-literal "false"
-
-\end_inset
-
+ Under revision for
+\emph on
+ European Journal of Law and Economics
+\emph default
 .
+ In collaboration with Daniel L.
+ Chen and Elliot Ash.
 \begin_inset Newline newline
 \end_inset
 
@@ -723,7 +723,8 @@ Model prototyping in semantic parsing and ontology reasoning.
 \begin_layout Labeling
 \labelwidthstring 00/0000--00/0000
 09/2018–present Teaching Assistant/Course Instructor at Rutgers University.
- Course taught: Introduction to Linguistic Theory (LING 201).
+ Course taught: Introduction to Linguistic Theory (LING 201), Invented Languages
+ (LING 190).
 \end_layout
 
 \begin_layout Labeling
