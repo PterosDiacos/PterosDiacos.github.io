@@ -351,24 +351,23 @@ vspace{-.8em}
 \begin_layout Labeling
 \labelwidthstring Computation
 \noindent
-Linguistics PhD student in linguistics with a specialization in computational
- semantics, syntax-semantics interface, and discourse analysis.
+Linguistics PhD student in linguistics specialized in computational semantics,
+ syntax-semantics interface, and discourse analysis.
  Strong critical-thinking and problem-solving skills.
 \end_layout
 
 \begin_layout Labeling
 \labelwidthstring Computation
-Computation Computational mindset and experiences in algorithm design and
- data structures gained through engaging in Olympiad in Informatics since
- high school.
+Computation Experiences in algorithm and data structure from engaging in
+ Olympiad in Informatics since high school.
  The First Prize in the 13th National Olympiad in Informatics in Provinces,
  China.
 \end_layout
 
 \begin_layout Labeling
 \labelwidthstring Computation
-NLP/NLU Highly interested in how learning models and formal theories inform
- each other.
+NLP/NLU Enthusiastic about how machine learning models and formal theories
+ inform each other.
  Relevant coursework: 
 \begin_inset CommandInset href
 LatexCommand href
@@ -566,8 +565,8 @@ vspace{-.8em}
 \begin_layout Labeling
 \labelwidthstring Undergoing
 Ongoing Graph Representation of Meaning.
- Revised Abstract Meaning Representation to model scope, intensionality
- and other phenomena in formal semantics study.
+ Revised Abstract Meaning Representation to model scope and quantification
+ in natural semantics.
  Developed a model-theoretical interpreter for graphs and a construction
  mechanism based on CCG and hyperedge replacement algebra.
 \end_layout
@@ -636,11 +635,6 @@ backgroundcolor "none"
 status open
 
 \begin_layout Itemize
-Using dependency features to distinguish fact vs.
- value statements.
-\end_layout
-
-\begin_layout Itemize
 Shown in application that value segments of court opinions are more informative
  than fact segments of the ideological direction of the U.S.
  Circuit Court.
@@ -691,11 +685,7 @@ Modified Kahn
 \end_inset
 
 s algorithm to handle topological sorting with disjunctive precedence conditions.
-\end_layout
-
-\begin_layout Itemize
-Conducted an experimental study to compare different incremental updating
- strategies under the uncertainty of disjunction.
+ Experimented with different incremental updating strategies.
 \end_layout
 
 \end_inset
