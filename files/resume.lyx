@@ -358,8 +358,8 @@ Linguistics PhD student in linguistics specialized in computational semantics,
 
 \begin_layout Labeling
 \labelwidthstring Computation
-Computation Experiences in algorithm and data structure from engaging in
- Olympiad in Informatics since high school.
+Computation Experiences in algorithm design and data structure from engaging
+ in Olympiad in Informatics since high school.
  The First Prize in the 13th National Olympiad in Informatics in Provinces,
  China.
 \end_layout
@@ -495,6 +495,10 @@ Linguistic Analysis
 \end_layout
 
 \begin_layout Plain Layout
+Teamwork
+\end_layout
+
+\begin_layout Plain Layout
 \begin_inset ERT
 status open
 
@@ -587,7 +591,7 @@ literal "false"
 Proceedings of EMNLP 2019
 \emph default
 .
- Team project supervised by Sam Bowman at NYU.
+ Team project role: constructed and ran experiments.
  
 \end_layout
 
@@ -647,16 +651,16 @@ Shown in application that value segments of court opinions are more informative
 
 \begin_layout Labeling
 \labelwidthstring Undergoing
-12/2017 Incremental topological sorting (
+12/2017 
 \begin_inset CommandInset href
 LatexCommand href
-name "https://github.com/PterosDiacos/Incremental-Topo-Sort"
+name "Incremental topological sorting"
 target "https://github.com/PterosDiacos/Incremental-Topo-Sort"
 literal "false"
 
 \end_inset
 
-).
+.
 \begin_inset Newline newline
 \end_inset
 
