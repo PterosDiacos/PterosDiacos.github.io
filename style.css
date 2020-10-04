@@ -48,17 +48,17 @@ body {
   }
   
   a:link {
-    color: #003366;
+    color: #333399;
     font-weight: 400;
     text-decoration: none;
   }
   
   a:visited {
-    color: #003333;
+    color: #333399;
   }
   
   a:hover {
-    color: #009999;
+    color: #3333999b;
     text-decoration: underline;
   }
   
@@ -71,7 +71,7 @@ body {
     font-weight: 400;
     font-size: 100%;
     text-align: right;
-    color: #404040;
+    color: #333399;
     float: left;
     overflow: hidden;
   }
@@ -79,7 +79,7 @@ body {
   .nav li a {
     display: block;
     padding: 5px 5px;
-    color: #404040;
+    color: #333399;
     font-weight: 400;
     text-decoration: none;
   }
@@ -89,7 +89,7 @@ body {
   }
   
   .nav li a.active {
-    background-color: #003333;
+    background-color: #333399;
     color: white;
   }
   
